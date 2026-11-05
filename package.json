@@ -1,0 +1,35 @@
+{
+  "name": "winston-audit-logger",
+  "version": "0.1.0",
+  "description": "Structured audit logging for Node: a dedicated security stream separated from the general log, four rotated Winston transports, and typed audit events.",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "logging",
+    "audit",
+    "audit-log",
+    "winston",
+    "security",
+    "structured-logging"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klimenkod406/winston-audit-logger.git"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "winston": "^3.14.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
