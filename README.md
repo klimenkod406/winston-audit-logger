@@ -1,5 +1,8 @@
 # winston-audit-logger
 
+[![CI](https://github.com/klimenkod406/winston-audit-logger/actions/workflows/ci.yml/badge.svg)](https://github.com/klimenkod406/winston-audit-logger/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 Structured **audit logging** for Node services — a log you can actually answer
 questions from six months later: *who did what, when, and from where.*
 
