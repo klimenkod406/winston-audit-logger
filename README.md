@@ -18,8 +18,8 @@ Built on Winston. One runtime dependency.
   └───────────────────────────┘              └──────────────────────┘
 ```
 
-Open-source reference implementation extracted from my commercial work on an
-enterprise ticketing platform (proprietary business logic removed).
+Open-source reference implementation extracted from a client project — an internal
+ticketing system for a manufacturing enterprise (client code and business logic removed).
 
 ## Why a separate audit stream
 
